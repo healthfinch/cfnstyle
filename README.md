@@ -1,6 +1,9 @@
-# CloudFormation Style Guide - draft v0.0.1
+# CloudFormation Style Guide
 
-This is an initial draft of a CloudFormation template style guide. The intent is to set some best practice guidelines for directly authoring CloudFormation templates. Please feel free to contribute be cloning this repo and submitting a pull request or starting a discussion by opening an issue.
+This repo is forked from https://github.com/alexgibs/cfnstyle and was recommend by Chris Munds from Kindly Ops.
+
+This is a living document meant to help folks understand how to build CloudFormation templates here at healthfinch.
+
 
 ## Table of Contents
 
